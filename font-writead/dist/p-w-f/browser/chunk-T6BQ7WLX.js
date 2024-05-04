@@ -1,0 +1,2 @@
+import{Hb as i,Pb as s,ca as o,qb as a,rb as r}from"./chunk-JKC5LLPW.js";var p=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-configuracion"]],standalone:!0,features:[s],decls:2,vars:0,consts:[[1,"surface-card","shadow-2","border-round","p-2","h-12rem"]],template:function(n,d){n&1&&(a(0,"div",0),i(1,` Hola
+`),r())}});let t=e;return t})();export{p as default};
