@@ -1,12 +1,12 @@
-# Proyecto XYZ
+# Proyecto BACKEND
 
 ## Descripción del Proyecto
 Proyecto XYZ es una aplicación web que ayuda a gestionar tareas de manera eficiente. Permite a los usuarios crear, organizar y priorizar tareas de forma colaborativa.
 
-## Instalación
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/proyecto-xyz.git`
-2. Instala las dependencias: `npm install`
-3. Inicia la aplicación: `npm start`
+## uso con prisma
+necesitar el `.env`
+en que consisitira la agregacion de la informacion de la base de datos
+`mysql://root:password@localhost:3306/NAME_BASE_DATOS`
 
 ## Uso
 - Para agregar una nueva tarea, haz clic en el botón "+ Nueva Tarea".
